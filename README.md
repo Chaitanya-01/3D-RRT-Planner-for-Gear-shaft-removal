@@ -1,5 +1,5 @@
 #  3D-RRT-Planner-for-Gear-shaft-removal
-Create a RRT based motion planner to remove the mainshaft from the transmission case without any collisions to prevent damage.
+Create a RRT based motion planner to remove the mainshaft from the transmission case without any collisions to prevent damage. (Implemented as part of project for RBE550 - Motion Planning course)
 
 ## Steps to run the code
 - Requires MATLAB Robotics toolbox to be added.
