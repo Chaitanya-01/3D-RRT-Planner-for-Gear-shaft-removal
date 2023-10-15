@@ -39,6 +39,8 @@ Paths explored by the planner and the final path found:
 Remaining plots are present in the report.
 
 ## References
+1. Steven M. LaValle. Planning Algorithms. Cambridge University Press, May 2006. ISBN
+9780521862059. URL http://lavalle.pl/planning/.
 For gif creation:
-1. Greene, Chad A., et al. “The Climate Data Toolbox for MATLAB.” Geochemistry, Geophysics, Geosystems, vol. 20, no. 7, American Geophysical Union (AGU), July 2019, pp. 3774–81, doi:10.1029/2019gc008392.
+2. Greene, Chad A., et al. “The Climate Data Toolbox for MATLAB.” Geochemistry, Geophysics, Geosystems, vol. 20, no. 7, American Geophysical Union (AGU), July 2019, pp. 3774–81, doi:10.1029/2019gc008392.
 
