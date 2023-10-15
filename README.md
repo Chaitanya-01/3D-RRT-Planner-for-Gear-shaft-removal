@@ -17,9 +17,11 @@ For detailed description of the implementation see the report [here](Report.pdf)
 ### Unidirectional RRT
 Paths explored by the planner and the final path found:
 <p float="middle">
-<img src="gifs-and-images/unidir_tree.png" width="450" height="450"/>
-<img src="gifs-and-images/unidir_path.png" width="450" height="450"/>
+	<img src="gifs-and-images/unidir_tree.png" width="500" height="450"/>
+
+	<img src="gifs-and-images/unidir_path.png" width="500" height="500"/>
 </p>
+
 <p float="middle">
 <img src="gifs-and-images/animation_unidirection.gif" width="500" height="500"/>
 </p>
@@ -30,6 +32,7 @@ Paths explored by the planner and the final path found:
 <img src="gifs-and-images/bidir_tree.png" width="450" height="450"/>
 <img src="gifs-and-images/bidir_path.png" width="450" height="450"/>
 </p>
+
 <p float="middle">
 <img src="gifs-and-images/animation_bidirectional.gif" width="500" height="500"/>
 </p>
